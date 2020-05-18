@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.netflixeurekanamingserver;
+package br.com.currency.naming.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

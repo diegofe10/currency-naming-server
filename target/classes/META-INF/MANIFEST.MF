@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: currency-naming-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: re038872
+Implementation-Vendor-Id: br.com.currency.naming.server
+Build-Jdk: 1.8.0_242
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/currency-naming-server
+Created-By: Maven Integration for Eclipse
+

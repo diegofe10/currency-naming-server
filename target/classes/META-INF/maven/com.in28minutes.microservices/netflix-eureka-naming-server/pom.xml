@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>br.com.currency.naming.server</groupId>
-	<artifactId>currency-naming-server</artifactId>
+	<groupId>com.in28minutes.microservices</groupId>
+	<artifactId>netflix-eureka-naming-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>currency-naming-server</name>
+	<name>netflix-eureka-naming-server</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -99,5 +99,6 @@
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
+
 
 </project>
