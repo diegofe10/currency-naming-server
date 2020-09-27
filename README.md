@@ -1,6 +1,6 @@
 # Currency Naming Server
 
-An naming Server with Java 8, Spring Cloud Finchley M8, Spring Cloud Config Client and Netflix Eureka for Service Discovery, Service Provider, Service Consumer and Service Registry
+An naming Server with Java 8, Spring Cloud Finchley M8, Spring Cloud Config Client and Netflix Eureka for Service Discovery, Service Provider, Service Consumer and Service Registry, JUnit 4
 
 ## Reference Documentation
 
